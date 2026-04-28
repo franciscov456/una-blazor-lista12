@@ -12,8 +12,8 @@
 Interação Humano Computador e UX – UNA  
 
 ## 👤 Identificação  
-**Aluno:** Francisco Vitória  
-**Curso:** Análise e Desenvolvimento de Sistemas  
+**Aluno:** Francisco Vitória Alves de Jesus  
+**Curso:** Ciências da computação  
 
 ---
 
