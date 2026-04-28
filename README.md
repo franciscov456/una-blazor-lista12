@@ -1,1 +1,39 @@
 # una-blazor-lista14
+
+# 🌱 EcoMonitor — Lista 12 (Blazor)  
+Interação Humano Computador e UX – UNA  
+
+## 👤 Identificação  
+**Aluno:** Francisco Vitória  
+**Curso:** Análise e Desenvolvimento de Sistemas  
+
+---
+
+# 📌 Descrição do Projeto  
+O EcoMonitor é uma prova de conceito desenvolvida em Blazor, baseada na gamificação de ações sustentáveis.  
+O sistema permite que o usuário registre ações ambientais e acompanhe o impacto em tempo real.
+
+O componente principal, **EcoStatus**, representa uma ação ecológica e contabiliza pontos conforme o usuário interage.
+
+---
+
+# 🧠 Heurísticas de Nielsen Aplicadas  
+
+### ✔ 1. Visibilidade do Status do Sistema  
+O contador é atualizado imediatamente a cada clique, mostrando ao usuário o impacto de sua ação.
+
+### ✔ 2. Controle e Liberdade do Usuário  
+Cada ação é independente e pode ser clicada livremente, permitindo que o usuário recupere ou ajuste seu progresso sem travas.
+
+### ✔ 3. Consistência e Padrões (opcional)  
+Os três componentes seguem o mesmo layout e comportamento, reforçando consistência visual e funcional.
+
+---
+
+# ▶ Guia de Execução  
+
+### **1. Clonar o repositório**
+```bash
+git clone https://github.com/SEU-USUARIO/una-blazor-lista12
+cd una-blazor-lista12
+
