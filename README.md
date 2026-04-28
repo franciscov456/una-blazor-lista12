@@ -37,3 +37,10 @@ Os três componentes seguem o mesmo layout e comportamento, reforçando consist�
 git clone https://github.com/SEU-USUARIO/una-blazor-lista12
 cd una-blazor-lista12
 
+<img width="981" height="510" alt="image" src="https://github.com/user-attachments/assets/a07602da-6d04-4cf1-be3d-30f1b7812b54" />
+
+<img width="1366" height="741" alt="image" src="https://github.com/user-attachments/assets/10eb84f9-1a6f-48f2-b567-c9a9f027fdba" />
+
+<img width="1366" height="740" alt="image" src="https://github.com/user-attachments/assets/aa346127-9968-4b2a-8561-d7e531ad7e3e" />
+
+
